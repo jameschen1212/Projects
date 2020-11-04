@@ -1,0 +1,3 @@
+public enum EventType {
+    BIRTH, MONITOR, ROUTE_S0, ROUTE_S1_1, ROUTE_S1_2, ROUTE_S2, ROUTE_S3;
+}
